@@ -1,0 +1,41 @@
+body {
+    background-color:cadetblue;
+    text-align: center;
+}
+
+/*
+.header {
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+}
+*/
+.form {
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+}
+
+.content p {
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+}
+
+.content {
+    text-align: center;
+}
+
+.lastResult {
+    max-width: 20%;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    
+}
+
+body h1 {
+    padding: 100x;
+}
