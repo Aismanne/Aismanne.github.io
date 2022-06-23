@@ -39,3 +39,8 @@ footer {
 body h1 {
     padding: 100x;
 }
+
+.submitButton {
+    margin-top: 8px;
+    margin-left: 10px;
+}
