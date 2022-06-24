@@ -30,11 +30,6 @@ body {
     max-width: 20%;
 }
 
-footer {
-    position: fixed; 
-    top: calc(100vh - 50px);
-}
-
 body h1 {
     padding: 100x;
 }
