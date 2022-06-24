@@ -31,9 +31,8 @@ body {
 }
 
 footer {
-    left: 0;
-    bottom: 0;
     position: fixed; 
+    top: calc(100vh - 50px);
 }
 
 body h1 {
